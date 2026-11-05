@@ -1,0 +1,31 @@
+{
+  "edges": [],
+  "meta": {
+    "description": "",
+    "name": "QA Billing sync"
+  },
+  "nodes": [
+    {
+      "advancedMode": false,
+      "enabled": true,
+      "id": "d5764f1b-7744-497d-a5af-ef80ff0d7219",
+      "locked": false,
+      "name": "Start",
+      "operation": "run",
+      "params": {
+        "inputFormat": [
+          {
+            "collapsed": false,
+            "id": "9caf562e-8632-4e30-854f-5e4394de505e",
+            "name": null,
+            "type": "string",
+            "value": null
+          }
+        ]
+      },
+      "type": "start_trigger"
+    }
+  ],
+  "variables": {},
+  "version": "2.0"
+}
