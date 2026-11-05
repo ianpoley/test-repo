@@ -1,0 +1,9 @@
+{
+  "color": "#3972F6",
+  "description": "Your first workflow - start building here!",
+  "documentVersion": "2.0",
+  "format": "steelengine-workflow-source-control",
+  "formatVersion": 1,
+  "name": "default-agent",
+  "workflowId": "8479e51d-fcab-4c02-830c-830c876f5cf0"
+}
