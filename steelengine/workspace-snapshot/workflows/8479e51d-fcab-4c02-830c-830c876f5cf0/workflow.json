@@ -1,0 +1,31 @@
+{
+  "edges": [],
+  "meta": {
+    "description": "Your first workflow - start building here!",
+    "name": "default-agent"
+  },
+  "nodes": [
+    {
+      "advancedMode": false,
+      "enabled": true,
+      "id": "cdefd6d7-8015-403c-964c-2f3ebe06c4e2",
+      "locked": false,
+      "name": "Start",
+      "operation": "run",
+      "params": {
+        "inputFormat": [
+          {
+            "collapsed": false,
+            "id": "f2528f4f-0f82-4dba-9ba7-738bf413fee3",
+            "name": null,
+            "type": "string",
+            "value": null
+          }
+        ]
+      },
+      "type": "start_trigger"
+    }
+  ],
+  "variables": {},
+  "version": "2.0"
+}
