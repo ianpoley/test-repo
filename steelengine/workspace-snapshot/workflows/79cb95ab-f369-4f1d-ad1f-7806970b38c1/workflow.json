@@ -1,0 +1,31 @@
+{
+  "edges": [],
+  "meta": {
+    "description": "",
+    "name": "QA Support triage, with a rather long name so we can see how long names render in the review list"
+  },
+  "nodes": [
+    {
+      "advancedMode": false,
+      "enabled": true,
+      "id": "b9ac7c4f-af15-451c-b22b-4b7dfc4ec308",
+      "locked": false,
+      "name": "Start",
+      "operation": "run",
+      "params": {
+        "inputFormat": [
+          {
+            "collapsed": false,
+            "id": "e381e63d-5451-45de-ad38-bf82efdea74f",
+            "name": null,
+            "type": "string",
+            "value": null
+          }
+        ]
+      },
+      "type": "start_trigger"
+    }
+  ],
+  "variables": {},
+  "version": "2.0"
+}
