@@ -1,8 +1,0 @@
-{
-  "color": "#ec4899",
-  "documentVersion": "2.0",
-  "format": "steelengine-workflow-source-control",
-  "formatVersion": 1,
-  "name": "QA Support triage, with a rather long name so we can see how long names render in the review list",
-  "workflowId": "79cb95ab-f369-4f1d-ad1f-7806970b38c1"
-}
